@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SPF 50 Sunscreen Lotion",
+      "brand": "GlowGuard",
+      "price": 18,
+      "rating": 4.8,
+      "stock": 40,
+      "description": "Lightweight, non-greasy sunscreen lotion with broad-spectrum SPF 50 protection.",
+      "image": "https://i.ibb.co.com/Y4dDXWXC/onela-ymeri-3-Uj7ttuo5kk-unsplash.jpg",
+      "category": "Skincare"
+    },
+    {
+      "id": 2,
+      "name": "Wide Brim Sun Hat",
+      "brand": "ShadeWalk",
+      "price": 27,
+      "rating": 4.5,
+      "stock": 35,
+      "description": "Packable straw wide-brim hat with UPF 50+ for ultimate sun protection.",
+      "image": "https://i.ibb.co.com/GvkbrcXr/david-trinks-s-EY2u9-Rn-Oz-Y-unsplash.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 3,
+      "name": "UV Protection Sunglasses",
+      "brand": "SunShade",
+      "price": 15,
+      "rating": 4.7,
+      "stock": 10,
+      "description": "Stylish UV protection sunglasses perfect for summer outings.",
+      "image": "https://i.ibb.co.com/m534zRhw/arvin-mogheyse-b77-NFBSSf-Rg-unsplash.jpg",
+      "category": "Accessories"
+    },
+
+    {
+      "id": 4,
+      "name": "Koonie 10000mAh Clip on Fan",
+      "brand": "HydraMax",
+      "price": 22,
+      "rating": 4.6,
+      "stock": 75,
+      "description": "Koonie 10000mAh Clip on Fan Rechargeable, 8-Inch Battery Operated Desk Fan and USB Fan.",
+      "image": "https://img.magnific.com/premium-photo/white-table-fan_1499468-108.jpg",
+      "category": "Sports & Outdoors"
+    },
+    {
+      "id": 5,
+      "name": "Inflatable Beach Ball",
+      "brand": "WaveRider",
+      "price": 8,
+      "rating": 4.3,
+      "stock": 60,
+      "description": "Colorful oversized beach ball for pool parties and beach fun.",
+      "image": "https://img.magnific.com/free-vector/fun-inflatable-beach-ball-icon-isolated_24877-83030.jpg?t=st=1777663833~exp=1777667433~hmac=b3dfe59090c4a245965c36f20db09ab437a4b672d3862adbf46104113738704b&w=1480",
+      "category": "Beach & Pool"
+    },
+    {
+      "id": 6,
+      "name": "Flip Flop Sandals",
+      "brand": "BeachStep",
+      "price": 12,
+      "rating": 4.4,
+      "stock": 90,
+      "description": "Comfortable EVA foam flip flops with anti-slip sole, perfect for beach and pool.",
+      "image": "https://i.ibb.co.com/Q7Jbvg2v/manorie-kodithuwakku-c-Au18w-ILNNU-unsplash.jpg",
+      "category": "Footwear"
+    }
+  ]
+}

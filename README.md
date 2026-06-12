@@ -3,8 +3,7 @@
 ## The purpose of this project is: A summer-themed e-commerce app built with React, featuring authentication, protected routes, and dynamic product browsing.
 
 ## Project Live URL: 
-## Project Live URL: https://summer-essentials-store-three.vercel.app
-
+## Project Live URL: https://assignment-8-mu-amber.vercel.app
 ## Key Features:
 -  Summer sale hero banner
 -  Product listing with rating & price

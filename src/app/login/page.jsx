@@ -32,10 +32,10 @@ export default function Login() {
   };
 
   return (
-    <div className="flex justify-center items-center my-36">
+    <div className="flex flex-col gap-5 justify-center items-center my-36">
       <form
         onSubmit={handleFormSubmit}
-        className="fieldset bg-base-200 border-base-300 rounded-box w-xs border p-4"
+        className=" fieldset bg-base-200 border-base-300 rounded-box w-xs border p-4"
       >
         <fieldset className="fieldset">
           <label className="label">Email</label>
@@ -65,16 +65,16 @@ export default function Login() {
           Login
         </button>
         <div className="divider">OR</div>
-        <button onClick={handleGooogleSignin} className="btn btn-soft">
-          <FaGoogle /> Login With Google
-        </button>
-        <p className="text-center text-[14px]">
-          Don't have an account?
-          <Link href={"/signup"} className="text-blue-700 cursor-pointer">
-            <span> Register now</span>
-          </Link>
-        </p>
       </form>
+      <button onClick={handleGooogleSignin} className="btn btn-soft">
+        <FaGoogle /> Login With Google
+      </button>
+      <p className="text-center text-[14px]">
+        Don't have an account?
+        <Link href={"/signup"} className="text-blue-700 cursor-pointer">
+          <span> Register now</span>
+        </Link>
+      </p>
     </div>
   );
 }

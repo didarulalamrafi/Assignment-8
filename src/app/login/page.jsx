@@ -58,7 +58,7 @@ export default function Login() {
             placeholder="Password"
             required
           />
-          <span className="validator-hint hidden">Required</span>
+          <span className="validator-hint hidden"> Password Required</span>
         </label>
 
         <button className="btn btn-neutral mt-4" type="submit">
